@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Css-Avanzadp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"livePreview.defaultPreviewPath": "/index-responsive.html"
+	}
+}
